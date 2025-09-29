@@ -1,5 +1,8 @@
 # Simple Interest Assignment
 
+Fixed a typo in README
+
+
 This repository implements a small Bash script `simple-interest.sh` which calculates simple interest and total amount.
 
 ## Files
